@@ -17,7 +17,7 @@ TAREFAS = [
         "estado": "não finalizado",
     },
     {
-        # "id": "3",
+        "id": "3",
         "titulo": "lavar roupas",
         "descrição": "estão sujas",
         "estado": "não finalizado",
